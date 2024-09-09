@@ -1,6 +1,6 @@
 # Хаписов Малик Хаписович
 +7(926) 093-62-54 – khapisov.malik@yandex.ru – Tg: t.me/mkhapisov – Github: https://github.com/mkhapisov
-                                          Москва, Россия	
+Москва, Россия	
 # ML-инженер
 
 # Образование
