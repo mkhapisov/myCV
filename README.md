@@ -14,12 +14,13 @@ Direction of preparation: “Math and Computer Science”
 Direction of preparation: “Math and Computer Science”
 # Experience
 ### Samsung AI Center Moscow: Computer Vision Engineer (December 2024 – August 2026)
+During the work in Samsung I've taken part of development a Monocular Depth Estimation Model that achieved δ_1 > 0.95 and absrel < 0.05 on validation set (zero-shot, 9 validation datasets, 6 of them are real data) using ViT-L architecture and trained on 7 synthetic datasets (~1M train samples). I've also participated in the development of multi-task learning trying to learn not only monocular depth but also panoptic segmentation. Besides that, I developed a monocular novel-view synthesis modelling, a 3D Object Detection model. I've also taken part of development an unified segmentation model capable of producing semantic, instance and panoptic segmentation using one unified architecture, one unified weights and one unified train dataset.
 # Achievements
+- Magistracy thesis on "Modeling of stochastic effects in nonlinear dynamical systems": https://github.com/mkhapisov/Magistracy-thesis
 - Coursework on the topic “Investigation of bistable systems by methods of stochastic modeling of kinetic circuits”: https://github.com/mkhapisov/Numerical-methods-coursework
-- Thesis on “Application of the Galerkin stochastic method to the analysis of regression models”: https://github.com/mkhapisov/Diploma-work
+- Bachelor's thesis on “Application of the Galerkin stochastic method to the analysis of regression models”: https://github.com/mkhapisov/Diploma-work
 - Solving the problem of face recognition using MTCNN detector and classificator based on ResNet18 architecture: https://github.com/mkhapisov/Face-recognition/tree/master
-- Solving the problem of semantic segmentation using U-Net based architecture: https://github.com/mkhapisov/Semantic-segmentation
-- Taking the Deep Learning School course on Computer Vision: https://github.com/mkhapisov/Deep-Learning-School
+- Taking the Deep Learning School course on Computer Vision and NLP
 # Key skills
 - Pytorch: confident user of the framework, 2 years usage experience
 - Numpy: confident user of the framework, 4 years usage experience
