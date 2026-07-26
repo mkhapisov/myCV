@@ -7,7 +7,7 @@
 
 Moscow, Russia
 # Education
-## Bauman Moscow State University
+## Bauman Moscow State Technical University
 ### Bachelor's degree: September 2020 – June 2024
 Field of study: “Math and Computer Science”
 ### Magistracy degree: September 2024 – June 2026
@@ -38,4 +38,4 @@ During the work in Samsung I've taken part of
 - English: B2
 - Russian: Native speaker
 # About me
-I'm graduated from Bauman Moscow State Technical University with magistracy degree, I'm 23 years old. I'm interested in developing AI solutions and want to further improve my current skills, learn something new about AI application fields and computer vision particularly. Ready for moving. Don't need in relocation services, I'm willing to relocate on my own.
+I'm 23 years old, graduated from Bauman Moscow State Technical University with magistracy degree and have 1.5 years of experience in Samsung AI Center. I'm interested in developing AI solutions and want to further improve my current skills, learn something new about AI application fields and computer vision particularly. Ready for moving. Don't need in relocation services, I'm willing to relocate on my own.
