@@ -10,21 +10,20 @@ Moscow, Russia
 ## Bauman Moscow State Technical University
 ### Bachelor's degree: September 2020 – June 2024
 Field of study: “Math and Computer Science”
-### Magistracy degree: September 2024 – June 2026
+### Master's degree: September 2024 – June 2026
 Field of study: “Math and Computer Science”
 # Experience
 ### Samsung AI Center Moscow: Computer Vision Engineer (December 2024 – Present)
-During the work in Samsung I've taken part of 
-- development of a Monocular Depth Estimation model that achieved δ_1 > 0.95 and absrel < 0.05 in zero-shot mode on our validation set using ViT-L architecture and trained from scratch on 7 synthetic datasets (~1M train samples).
-- development of a multi-task learning approach trying to effectively learn not only monocular depth but also panoptic segmentation.
-- modeling of monocular novel-view synthesis
-- development of a 3D Object Detection model
-- development of unified segmentation model capable of producing semantic, instance and panoptic segmentation using one unified architecture, unified weights and one unified train dataset.
-# Achievements
-- Magistracy thesis on "Modeling of stochastic effects in nonlinear dynamical systems": https://github.com/mkhapisov/Magistracy-thesis
-- Coursework on the topic “Investigation of bistable systems by methods of stochastic modeling of kinetic circuits”: https://github.com/mkhapisov/Numerical-methods-coursework
-- Bachelor's thesis on “Application of the Galerkin stochastic method to the analysis of regression models”: https://github.com/mkhapisov/Diploma-work
+During the work in Samsung I've
+- Developed a Monocular Depth Estimation model, achieving δ_1 > 0.95 and absrel < 0.05 in zero-shot mode on our validation set, using ViT-L architecture and trained from scratch on 7 synthetic datasets (~1M train samples).
+- Researched multi-task learning for joint monocular depth estimation and panoptic segmentation.
+- Worked on monocular novel-view synthesis and 3D object detection models
+- Developed a unified segmentation model for semantic, instance, and panoptic segmentation using a shared architecture, weights and training dataset.
+# Research & Projects
+- Master's thesis on "Modeling of stochastic effects in nonlinear dynamical systems": https://github.com/mkhapisov/Magistracy-thesis
 - Solving the problem of face recognition using MTCNN detector and classifier based on ResNet18 architecture: https://github.com/mkhapisov/Face-recognition/tree/master
+- Bachelor's thesis on “Application of the Galerkin stochastic method to the analysis of regression models”: https://github.com/mkhapisov/Diploma-work
+- Coursework on the topic “Investigation of bistable systems by methods of stochastic modeling of kinetic circuits”: https://github.com/mkhapisov/Numerical-methods-coursework
 - Taking the Deep Learning School course on Computer Vision and NLP
 # Key skills
 **Programming Languages:** C/C++, Python, SQL  
