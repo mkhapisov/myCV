@@ -9,9 +9,9 @@ Moscow, Russia
 # Education
 ## Bauman Moscow State University
 ### Bachelor's degree: September 2020 – June 2024
-Direction of preparation: “Math and Computer Science”
+Field of Study: “Math and Computer Science”
 ### Magistracy degree: September 2024 – June 2026
-Direction of preparation: “Math and Computer Science”
+Field of Study: “Math and Computer Science”
 # Experience
 ### Samsung AI Center Moscow: Computer Vision Engineer (December 2024 – August 2026)
 During the work in Samsung I've taken part of development a Monocular Depth Estimation Model that achieved δ_1 > 0.95 and absrel < 0.05 on validation set (zero-shot, 9 validation datasets, 6 of them are real data) using ViT-L architecture and trained from scratch on 7 synthetic datasets (~1M train samples). I've also participated in the development of multi-task learning trying to learn not only monocular depth but also panoptic segmentation. Besides that, I developed a monocular novel-view synthesis modelling, a 3D Object Detection model. I've also taken part of development an unified segmentation model capable of producing semantic, instance and panoptic segmentation using one unified architecture, one unified weights and one unified train dataset.
