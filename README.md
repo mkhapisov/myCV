@@ -27,15 +27,9 @@ During the work in Samsung I've taken part of
 - Solving the problem of face recognition using MTCNN detector and classifier based on ResNet18 architecture: https://github.com/mkhapisov/Face-recognition/tree/master
 - Taking the Deep Learning School course on Computer Vision and NLP
 # Key skills
-- PyTorch: confident user of the framework, 2 years usage experience
-- NumPy: confident user of the framework, 4 years usage experience
-- OpenCV: confident user of the framework, 2 years usage experience
-- C/C++: very confident user, 6 years usage experience
-- Linux: confident user, 2 years usage experience
-- Git: very confident user, 5 years usage experience
-- SQL: 4 years usage experience
-- Soft skills: analytical mindset, good at teamwork
-- English: B2
-- Russian: Native speaker
+**Programming Languages:** C/C++, Python, SQL  
+**ML/CV:** PyTorch, NumPy, OpenCV, depth estimation, segmentation, object detection  
+**Tools:** Linux, Git  
+**Languages:** Russian native, English B2
 # About me
 I'm 23 years old, graduated from Bauman Moscow State Technical University with magistracy degree and have 1.5 years of experience in Samsung AI Center. I'm interested in developing AI solutions production-oriented computer vision systems, want to further improve my current skills. Open to relocation and don't require relocation assistance.
