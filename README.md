@@ -1,32 +1,30 @@
-# Хаписов Малик Хаписович
-### ML-инженер
-+7(926) 093-62-54 – khapisov.malik@yandex.ru – Tg: t.me/mkhapisov – Github: https://github.com/mkhapisov
-Москва, Россия
+# Khapisov Malik Khapisovich
+### AI-engineer
++7(926) 093-62-54 – knigan.grunt@gmail.com – Telegram: t.me/mkhapisov – Github: https://github.com/mkhapisov
+Moscow, Russia
 # Образование
-### МГТУ им. Н.Э. Баумана – бакалавриат	          сентябрь 2020 – июнь 2024
-Направление подготовки: “Математика и компьютерные науки”
-### МГТУ им. Н.Э. Баумана – магистратура      сентябрь 2024 – июнь 2026
-Направление подготовки: “Математика и компьютерные науки”
-# Достижения
-- Курсовая работа на тему “Исследование бистабильных систем методами стохастического моделирования кинетических схем”: https://github.com/mkhapisov/Numerical-methods-coursework
-- Дипломная работа на тему “Применение стохастического метода Галёркина к анализу регрессионных моделей”: https://github.com/mkhapisov/Diploma-work
-- Решение задачи распознавания лиц с использованием Pytorch, MTCNN и ResNet18: https://github.com/mkhapisov/Face-recognition/tree/master
-- Решение задачи семантической сегментации с использованием Pytorch и U-Net: https://github.com/mkhapisov/Semantic-segmentation
-- Прохождение курса Deep Learning School по Computer Vision: https://github.com/mkhapisov/Deep-Learning-School
-# Прочие достижения
-- Разработка Android-мессенджера на Qt C++
-- Разработка сервера с использованием TCP-сокетов на Python и создания базы данных SQLite на этом сервере для поддержки вышеуказанного Android-мессенджера
-- Разработка электронного журнала для студентов (на Qt C++), использующего базу данных PostgreSQL
-- Разработка GUI-приложения для работы с базой данных PostgreSQL с помощью SQL-запросов (на Qt C++)
-- Разработка сайта на Django для отслеживания выполнения задач в рамках некоторых проектов
-- Прохождение курса по Web-программированию от Цифровой кафедры в МГТУ им. Н.Э. Баумана
-# Ключевые навыки
-- Python: Pytorch, опыт написания CV проектов с использованием Pytorch, NumPy, matplotlib, pandas, Django, умение писать асинхронный код
-- C/С++: очень уверенное знание языка и также библиотеки Qt, хорошее понимание принципов ООП, опыт настройки клиент-серверного взаимодействия на Qt C++, умения писать многопоточный код
-- SQL: хорошее и уверенное знание SQL, опыт работы с PostgreSQL и SQLite
-- Linux: неплохое знание командной оболочки Bash
-- Git: умение работать с Git
-- Soft skills: системное мышление, аналитический склад ума, эффективная коммуникация
-- Английский язык: B1
-# О себе
-Я выпускник МГТУ им. Н.Э. Баумана из Москвы, мне 21 год. Хочу начать карьеру ML-инженера, получить реальный опыт разработки в команде, улучшить свои текущие навыки и научиться чему-то новому.
+### Bauman Moscow State University: bachelor degree	            September 2020 – June 2024
+Direction of preparation: “Math and Computer Science”
+### Bauman Moscow State University: magistracy degree           September 2024 – June 2026
+Direction of preparation: “Math and Computer Science”
+# Experience
+### Samsung AI Center Moscow: Computer Vision Engineer	        December 2024 – August 2026
+# Achievements
+- Coursework on the topic “Investigation of bistable systems by methods of stochastic modeling of kinetic circuits”: https://github.com/mkhapisov/Numerical-methods-coursework
+- Thesis on “Application of the Galerkin stochastic method to the analysis of regression models”: https://github.com/mkhapisov/Diploma-work
+- Solving the problem of face recognition using MTCNN detector and classificator based on ResNet18 architecture: https://github.com/mkhapisov/Face-recognition/tree/master
+- Solving the problem of semantic segmentation using U-Net based architecture: https://github.com/mkhapisov/Semantic-segmentation
+- Taking the Deep Learning School course on Computer Vision: https://github.com/mkhapisov/Deep-Learning-School
+# Key skills
+- Pytorch: confident user of the framework, 2 years usage experience
+- Numpy: confident user of the framework, 4 years usage experience
+- OpenCV: confident user of the framework, 2 years usage experience
+- C/С++: very confident user, 6 years usage experience
+- Linux: confident user, 2 years usage experience
+- Git: very confident user, 5 years usage experience
+- SQL: 4 years usage experience
+- Soft skills: analytical mindset, good at teamwork
+- English: B2
+- Russian: Native speaker
+# About me
+I'm graduated from Bauman Moscow State Technical University with magistracy degree, I'm 23 years old. I'm interested in developing AI solutions, I've got 1.5 years experience in Samsung AI Center on the CV-engineer position. I want to further improve my current skills, learn something new about AI application fields and computer vision particularly.
