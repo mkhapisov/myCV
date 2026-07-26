@@ -3,14 +3,15 @@
 - Phone number: +7(926) 093-62-54
 - E-mail: malik.khapisov@gmail.com
 - Telegram: t.me/mkhapisov
+- Linkedin: www.linkedin.com/in/malik-khapisov-080060425
 
 Moscow, Russia
 # Education
 ## Bauman Moscow State Technical University
 ### Bachelor's degree: September 2020 - June 2024
-Field of study: "Math and Computer Science"
+Field of study: "Mathematics and Computer Science"
 ### Master's degree: September 2024 - June 2026
-Field of study: "Math and Computer Science"
+Field of study: "Mathematics and Computer Science"
 # Experience
 ### Samsung AI Center Moscow: Computer Vision Engineer (December 2024 - Present)
 During the work in Samsung I've
