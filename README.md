@@ -15,7 +15,7 @@ Field of study: “Math and Computer Science”
 # Experience
 ### Samsung AI Center Moscow: Computer Vision Engineer (December 2024 – August 2026)
 During the work in Samsung I've taken part of 
-- development of a Monocular Depth Estimation Model that achieved δ_1 > 0.95 and absrel < 0.05 in zero-shot mode on our validation set using ViT-L architecture and trained from scratch on 7 synthetic datasets (~1M train samples).
+- development of a Monocular Depth Estimation model that achieved δ_1 > 0.95 and absrel < 0.05 in zero-shot mode on our validation set using ViT-L architecture and trained from scratch on 7 synthetic datasets (~1M train samples).
 - development of a multi-task learning approach trying to effectively learn not only monocular depth but also panoptic segmentation.
 - modelling of monocular novel-view synthesis
 - development of a 3D Object Detection model
