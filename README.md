@@ -4,6 +4,7 @@
 - E-mail: knigan.grunt@gmail.com
 - Telegram: t.me/mkhapisov
 - Github: https://github.com/mkhapisov
+
 Moscow, Russia
 # Образование
 ### Bauman Moscow State University: bachelor degree	            September 2020 – June 2024
