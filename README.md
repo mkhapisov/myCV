@@ -33,4 +33,4 @@ During the work in Samsung I've taken part of development a Monocular Depth Esti
 - English: B2
 - Russian: Native speaker
 # About me
-I'm graduated from Bauman Moscow State Technical University with magistracy degree, I'm 23 years old. I'm interested in developing AI solutions and want to further improve my current skills, learn something new about AI application fields and computer vision particularly. Ready for moving. Don't need in relocation services, I'm ready to relocate on my own.
+I'm graduated from Bauman Moscow State Technical University with magistracy degree, I'm 23 years old. I'm interested in developing AI solutions and want to further improve my current skills, learn something new about AI application fields and computer vision particularly. Ready for moving. Don't need in relocation services, I'm willing to relocate on my own.
