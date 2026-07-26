@@ -7,12 +7,13 @@
 
 Moscow, Russia
 # Education
-### Bauman Moscow State University: bachelor degree	            September 2020 – June 2024
+## Bauman Moscow State University
+### Bachelor degree: September 2020 – June 2024
 Direction of preparation: “Math and Computer Science”
-### Bauman Moscow State University: magistracy degree           September 2024 – June 2026
+### Magistracy degree: September 2024 – June 2026
 Direction of preparation: “Math and Computer Science”
 # Experience
-### Samsung AI Center Moscow: Computer Vision Engineer	        December 2024 – August 2026
+### Samsung AI Center Moscow: Computer Vision Engineer (December 2024 – August 2026)
 # Achievements
 - Coursework on the topic “Investigation of bistable systems by methods of stochastic modeling of kinetic circuits”: https://github.com/mkhapisov/Numerical-methods-coursework
 - Thesis on “Application of the Galerkin stochastic method to the analysis of regression models”: https://github.com/mkhapisov/Diploma-work
