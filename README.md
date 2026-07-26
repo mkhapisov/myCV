@@ -15,10 +15,10 @@ Field of study: “Math and Computer Science”
 # Experience
 ### Samsung AI Center Moscow: Computer Vision Engineer (December 2024 – Present)
 During the work in Samsung I've
-- Developed a Monocular Depth Estimation model, achieving δ_1 > 0.95 and absrel < 0.05 in zero-shot mode on our validation set, using ViT-L architecture and trained from scratch on 7 synthetic datasets (~1M train samples).
-- Researched multi-task learning for joint monocular depth estimation and panoptic segmentation.
-- Worked on monocular novel-view synthesis and 3D object detection models
-- Developed a unified segmentation model for semantic, instance, and panoptic segmentation using a shared architecture, weights and training dataset.
+- developed a Monocular Depth Estimation model, achieving δ_1 > 0.95 and absrel < 0.05 in zero-shot mode on our validation set, using ViT-L architecture and trained from scratch on 7 synthetic datasets (~1M train samples);
+- researched multi-task learning for joint monocular depth estimation and panoptic segmentation;
+- worked on monocular novel-view synthesis and 3D object detection models;
+- developed a unified segmentation model for semantic, instance, and panoptic segmentation using a shared architecture, weights and training dataset.
 # Research & Projects
 - Master's thesis on "Modeling of stochastic effects in nonlinear dynamical systems": https://github.com/mkhapisov/Magistracy-thesis
 - Solving the problem of face recognition using MTCNN detector and classifier based on ResNet18 architecture: https://github.com/mkhapisov/Face-recognition/tree/master
