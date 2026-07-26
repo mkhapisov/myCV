@@ -8,7 +8,7 @@
 Moscow, Russia
 # Education
 ## Bauman Moscow State University
-### Bachelor degree: September 2020 – June 2024
+### Bachelor's degree: September 2020 – June 2024
 Direction of preparation: “Math and Computer Science”
 ### Magistracy degree: September 2024 – June 2026
 Direction of preparation: “Math and Computer Science”
