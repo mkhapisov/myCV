@@ -19,7 +19,7 @@ During the work in Samsung I've taken part of
 - development of a multi-task learning approach trying to effectively learn not only monocular depth but also panoptic segmentation.
 - modelling of monocular novel-view synthesis
 - development of a 3D Object Detection model
-- development of an unified segmentation model capable of producing semantic, instance and panoptic segmentation using one unified architecture, one unified weights and one unified train dataset.
+- development of unified segmentation model capable of producing semantic, instance and panoptic segmentation using one unified architecture, unified weights and one unified train dataset.
 # Achievements
 - Magistracy thesis on "Modeling of stochastic effects in nonlinear dynamical systems": https://github.com/mkhapisov/Magistracy-thesis
 - Coursework on the topic “Investigation of bistable systems by methods of stochastic modeling of kinetic circuits”: https://github.com/mkhapisov/Numerical-methods-coursework
@@ -27,7 +27,7 @@ During the work in Samsung I've taken part of
 - Solving the problem of face recognition using MTCNN detector and classificator based on ResNet18 architecture: https://github.com/mkhapisov/Face-recognition/tree/master
 - Taking the Deep Learning School course on Computer Vision and NLP
 # Key skills
-- Pytorch: confident user of the framework, 2 years usage experience
+- PyTorch: confident user of the framework, 2 years usage experience
 - Numpy: confident user of the framework, 4 years usage experience
 - OpenCV: confident user of the framework, 2 years usage experience
 - C/С++: very confident user, 6 years usage experience
