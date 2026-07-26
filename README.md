@@ -1,7 +1,7 @@
 # Khapisov Malik Khapisovich
 ### AI-engineer
-- +7(926) 093-62-54
-- knigan.grunt@gmail.com
+- Phone number: +7(926) 093-62-54
+- E-mail: knigan.grunt@gmail.com
 - Telegram: t.me/mkhapisov
 - Github: https://github.com/mkhapisov
 Moscow, Russia
