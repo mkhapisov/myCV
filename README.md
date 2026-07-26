@@ -1,5 +1,5 @@
 # Khapisov Malik Khapisovich
-### AI-engineer
+### AI Engineer
 - Phone number: +7(926) 093-62-54
 - E-mail: knigan.grunt@gmail.com
 - Telegram: t.me/mkhapisov
@@ -8,12 +8,12 @@
 Moscow, Russia
 # Education
 ## Bauman Moscow State Technical University
-### Bachelor's degree: September 2020 – June 2024
-Field of study: “Math and Computer Science”
-### Master's degree: September 2024 – June 2026
-Field of study: “Math and Computer Science”
+### Bachelor's degree: September 2020 - June 2024
+Field of study: "Math and Computer Science"
+### Master's degree: September 2024 - June 2026
+Field of study: "Math and Computer Science"
 # Experience
-### Samsung AI Center Moscow: Computer Vision Engineer (December 2024 – Present)
+### Samsung AI Center Moscow: Computer Vision Engineer (December 2024 - Present)
 During the work in Samsung I've
 - developed a Monocular Depth Estimation model, achieving δ1 > 0.95 and AbsRel < 0.05 on average in zero-shot evaluation across 6 real and 2 synthetic validation datasets, using ViT-L architecture and trained from scratch on 7 synthetic datasets (~1M train samples);
 - researched multi-task learning for joint monocular depth estimation and panoptic segmentation;
@@ -22,8 +22,8 @@ During the work in Samsung I've
 # Research & Projects
 - Master's thesis on "Modeling of stochastic effects in nonlinear dynamical systems": https://github.com/mkhapisov/Magistracy-thesis
 - Solving the problem of face recognition using MTCNN detector and classifier based on ResNet18 architecture: https://github.com/mkhapisov/Face-recognition/tree/master
-- Bachelor's thesis on “Application of the Galerkin stochastic method to the analysis of regression models”: https://github.com/mkhapisov/Diploma-work
-- Coursework on the topic “Investigation of bistable systems by methods of stochastic modeling of kinetic circuits”: https://github.com/mkhapisov/Numerical-methods-coursework
+- Bachelor's thesis on "Application of the Galerkin stochastic method to the analysis of regression models": https://github.com/mkhapisov/Diploma-work
+- Coursework on the topic "Investigation of bistable systems by methods of stochastic modeling of kinetic circuits": https://github.com/mkhapisov/Numerical-methods-coursework
 - Completed the Deep Learning School course on Computer Vision and NLP
 # Key skills
 **Programming Languages:** C/C++, Python, SQL  
