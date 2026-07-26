@@ -1,5 +1,5 @@
 # Khapisov Malik Khapisovich
-### AI Engineer
+### ML Engineer
 - Phone number: +7(926) 093-62-54
 - E-mail: malik.khapisov@gmail.com
 - Telegram: t.me/mkhapisov
