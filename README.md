@@ -6,7 +6,7 @@
 - Github: https://github.com/mkhapisov
 
 Moscow, Russia
-# Образование
+# Education
 ### Bauman Moscow State University: bachelor degree	            September 2020 – June 2024
 Direction of preparation: “Math and Computer Science”
 ### Bauman Moscow State University: magistracy degree           September 2024 – June 2026
