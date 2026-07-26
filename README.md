@@ -20,7 +20,7 @@ During the work in Samsung I've
 - worked on monocular novel-view synthesis and 3D object detection models;
 - developed a unified segmentation model for semantic, instance, and panoptic segmentation using a shared architecture, weights and training dataset.
 # Research & Projects
-- Master's thesis on "Modeling of stochastic effects in nonlinear dynamical systems": https://github.com/mkhapisov/Magistracy-thesis
+- Master's thesis on "Modeling of stochastic effects in nonlinear dynamical systems": https://github.com/mkhapisov/Masters-thesis
 - Solving the problem of face recognition using MTCNN detector and classifier based on ResNet18 architecture: https://github.com/mkhapisov/Face-recognition/tree/master
 - Bachelor's thesis on "Application of the Galerkin stochastic method to the analysis of regression models": https://github.com/mkhapisov/Diploma-work
 - Coursework on the topic "Investigation of bistable systems by methods of stochastic modeling of kinetic circuits": https://github.com/mkhapisov/Numerical-methods-coursework
